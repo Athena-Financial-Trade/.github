@@ -29,7 +29,8 @@ Our main project is the research and development of a deep learning model for qu
 - Vector database / embedding-based retrieval
 - Large language models via API
 - Document ingestion and chunking pipelines
-- 
+
+
 ## Principles
 
 - **Learning first.** Everything here is educational and exploratory.
